@@ -1,0 +1,6 @@
+# https://sites.google.com/view/nli4ct/home
+
+# https://paperswithcode.com/paper/biobert-a-pre-trained-biomedical-language
+# https://github.com/naver/biobert-pretrained
+# https://github.com/dmis-lab/biobert
+# https://github.com/jayded/evidence-inference
